@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MapperTest" />
+        <module name="CRUD_object" />
+        <module name="test" />
+        <module name="mybatisCRUD" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CRUD_object" target="11" />
+      <module name="dtxinxi" target="11" />
+      <module name="MapperTest" target="11" />
+      <module name="mybatisCRUD" target="11" />
+      <module name="mybatisqs" target="11" />
+      <module name="test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
